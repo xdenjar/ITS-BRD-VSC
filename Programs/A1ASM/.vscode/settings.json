@@ -1,0 +1,7 @@
+{
+    "debug.hideSlowPreLaunchWarning": true,
+    "debug.showInStatusBar": "never",
+    "clangd.arguments": [
+        "--compile-commands-dir=/Users/dj/Documents/git_projekte/ITS-BRD-VSC/Programs/A1ASM/out/A1ASM/ITSboard_Assembly/Debug"
+    ]
+}
