@@ -1,7 +1,7 @@
 ;******************** (C) COPYRIGHT HAW-Hamburg ********************************
 ;* File Name          : main.s
-;* Author             : Dennis Jarmolinski  
-;* Version            : V1.1
+;* Author             : Dennis Jarmolinski (Martikel-Nr. 2875536), Arash Ghaboos (Martikel-Nr. 2857505)
+;* Version            : V1.2
 ;* Date               : 22.10.2026
 ;* Description        : This is a main to show Byte behavior on our
 ;                     : ITS-Board.
